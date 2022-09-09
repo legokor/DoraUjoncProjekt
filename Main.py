@@ -1,6 +1,5 @@
 from Test import Test
 
-#TODO: ujonc belépési adatok dockerbe
 '''
 Kedves újoncok!
 
