@@ -1,0 +1,7 @@
+{
+  "broker": "localhost",
+  "port": 1883,
+  "topic": "python/ujonc",
+  "username": "test",
+  "password": "teszt2"
+}
