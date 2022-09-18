@@ -4,6 +4,8 @@ from Test import Test
 Kedves újoncok!
 
 Az újonc feladatok python kódok írása.
+Feladat 0:
+- Hozzatok létre egy új branch-et feature/[név] formában és ott csináljátok a projektet
 
 Feladat 1:
 - Nézzetek utána az mqtt kommunikációs formának: https://mqtt.org
