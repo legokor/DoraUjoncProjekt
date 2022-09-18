@@ -10,8 +10,10 @@ Feladat 1:
 - Nézzetek utána a python mqtt könyvtárainak: paho.mqtt.client
 
 Feladat 2:
-- Kaptatok egy docker file-t. (Ha nincs docker a gépeteken, akkor szerezzetek be egy docker alkalmazást)
-- Van két shell script (.sh) ezeket sorban loadDocker, majd startDocker indítsátok el
+- Kaptatok egy docker file-t. Ezt másoljátok be ide a főkönyvtárba(Ha nincs docker a gépeteken, akkor szerezzetek be egy docker alkalmazást)
+    https://drive.google.com/drive/folders/1WlgWY0pLLByLrFKyRD1WrZR5hbhq7z3S?usp=sharing
+- Van két shell script (.sh, linuxra és mac-re, windowsra a .bat file-ok kellenek ám ezeket nem tudtam tesztelni) 
+    ezeket sorban loadDocker, majd startDocker indítsátok el
     (Az első betölti a docker file-t, itt nézzétek meg a docker file elérési útját, hogy stimmejen
     A második elindítja a dockert)
 - Írjatok egy kódot, ami a standart kimenetre írja ki a tesztprogram által kiírt számokat.
